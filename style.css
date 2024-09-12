@@ -16,7 +16,7 @@ body{
 .head-content{
    font-family: verdana;
    font-weight: bolder;
-   background-image: url(../Home/background2.jpg);
+   background-image: url(Home/background2.jpg);
    background-attachment: fixed;
    background-size: cover;
    padding: 50pt;
