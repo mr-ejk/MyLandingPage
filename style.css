@@ -5,8 +5,10 @@
 body{
    background-color: rgb(225, 226, 226);
 }
+p{
+   font-faminly: montserrat;
+}
 .main-content{
-   font-family: montserrat;
    padding-top: 3%;
    padding-left: 20%;
    padding-right: 20%;
