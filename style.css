@@ -1,12 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lora:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&family=Roboto+Slab:wght@100..900&display=swap');
 .nav-link{
    color: rgb(228, 229, 230);
 }
 body{
    background-color: rgb(225, 226, 226);
-   font-family: arial;
-
 }
 .main-content{
+   font-family: montserrat;
    padding-top: 3%;
    padding-left: 20%;
    padding-right: 20%;
@@ -14,9 +14,9 @@ body{
    font-size: large;
 }
 .head-content{
-   font-family: verdana;
+   font-family: Verdana;
    font-weight: bolder;
-   background-image: url(Home/background2.jpg);
+   background-image: url(background2.jpg);
    background-attachment: fixed;
    background-size: cover;
    padding: 50pt;
